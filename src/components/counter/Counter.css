@@ -20,7 +20,7 @@
     border-width: 5px;
 }
 
-.count {
+.totalCount {
     font-size: 120px;
-    padding: 20px;
+    color:  #00a5ab;
 }
